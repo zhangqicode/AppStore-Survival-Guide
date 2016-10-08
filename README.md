@@ -5,7 +5,7 @@ AppStore生存指南的目的是帮助被AppStore拒绝的开发者分析被拒�
 官方的审核指南：
 https://developer.apple.com/app-store/review/guidelines/
 
-###[Introduction]()
+###[Introduction](https://github.com/zhangqippp/AppStore-Survival-Guide/blob/master/src/Introduction.md)
 
 ###[Before You Submit]()
 
